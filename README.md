@@ -52,6 +52,10 @@
   <a href = "mailto:martinelli.matheus0@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
   <a href="https://www.linkedin.com/in/matheus-martinelli-a82149108/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+  <a href="https://www.facebook.com/matheus.908.30" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
+
+  <a href="https://www.linkedin.com/in/matheus-martinelli-a82149108/" target="_blank"><img src="	https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/rafaballerini/MartinelliNTZ/blob/output/github-contribution-grid-snake.svg)
  

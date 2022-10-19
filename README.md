@@ -7,24 +7,29 @@
 </div>
 
 # Hard Skills
-## Iniciante
+### Iniciante
 <div style="display: inline_block"><br>
 <img align="center" height="30" width="40" src="https://icongr.am/devicon/photoshop-plain.svg?size=128&color=currentColor">
  <img align="center" height="30" width="40" src="https://icongr.am/devicon/css3-original-wordmark.svg?size=128&color=ff0a0a">
+  <img align="center" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=ffffff">
+  <img align="center" height="30" width="40" src="">
 
 </div><br>
 
-## Básico
+### Básico
 <div style="display: inline_block"><br>
  <img align="center" height="30" width="40" src="https://icongr.am/devicon/git-original-wordmark.svg?size=128&color=currentColor">
-  <img align="center" height="30" width="40" src="https://icongr.am/devicon/github-original-wordmark.svg?size=128&color=ffffff">
+  <img align="center" height="30" width="40" src="https://icongr.am/devicon/github-original-wordmark.svg?size=128&color=#ffffff">
   <img align="center" height="30" width="40" src="https://icongr.am/devicon/html5-original-wordmark.svg?size=128&color=currentColor">
+  <img align="center" height="30" width="40" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=ffffff">
+  <img align="center" height="30" width="40" src="">
 </div><br>
 
-## Acima do Básico
+### Acima do Básico
 <div style="display: inline_block"><br>
  <img align="center" height="30" width="40" src="https://icongr.am/devicon/android-original.svg?size=128&color=currentColor">
  <img align="center" height="30" width="40" src="https://icongr.am/devicon/java-original-wordmark.svg?size=128&color=currentColor">
+ <img align="center" height="30" width="40" src="https://icongr.am/devicon/visualstudio-plain-wordmark.svg?size=128&color=ffffff">
  </div><br>
 
 
@@ -33,5 +38,9 @@
   
   
  
+  
+
+ 
+  <img align="center" height="30" width="40" src="">
   <img align="center" height="30" width="40" src="">
   #          

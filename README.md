@@ -4,7 +4,7 @@
   <a href="https://github.com/MartinelliNTZ">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MartinelliNTZ&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
     <img width="500em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinelliNTZ&layout=compact&langs_count=5&theme=great-gatsby"/>
-     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinelliNTZ&layout=compact&langs_count=7&theme=dracula"/>
+    
 
 </div>
 
@@ -16,6 +16,7 @@
  <img align="center" height="30" width="40" src="https://icongr.am/devicon/css3-original-wordmark.svg?size=128&color=ff0a0a">
  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">
  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  
 
 </div><br>

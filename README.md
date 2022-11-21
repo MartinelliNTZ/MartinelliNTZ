@@ -14,7 +14,6 @@
 
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg">
  <img align="center" height="30" width="40" src="https://icongr.am/devicon/css3-original-wordmark.svg?size=128&color=ff0a0a">
- <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">
  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  
@@ -24,8 +23,9 @@
 ### Básico
 <div style="display: inline_block"><br>
  
- <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
- <img align="center" height="30" width="40" src="assets/github.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+  <img align="center" height="30" width="40" src="assets/github.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">
   <img align="center" height="30" width="40" src="https://icongr.am/devicon/html5-original-wordmark.svg?size=128&color=currentColor">
   <img align="center" height="30" width="40" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=ffffff">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" width="40"/>

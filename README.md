@@ -23,7 +23,7 @@
 - 🎓 Apaixonado por desenvolvimento Full-Stack e Mobile (Flutter, Java, JS).
 - 🎨 Designer criativo com Photoshop e Canva.
 - 🚀 Sempre construindo projetos inovadores e aprendendo novas tecnologias, incluindo GIS/Drones, AI e Agri-Tech.
-- 🌎 Baseado no Brasil 🇧🇷 | Pronomes: ele/dele.
+  - 🌎 Baseado no Brasil 🇧🇷 | Assis-SP   |   Palmas-TO
 
 
 ### 🐍 **Atividade Recente (Snake Animation!)**

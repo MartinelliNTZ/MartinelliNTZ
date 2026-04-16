@@ -31,7 +31,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MartinelliNTZ&theme=react-dark&hide_border=true" width="100%"/>
 </div>
 
-### 📫 **Conecte-se Comigo**
+### 📫 **Conecte-se Comigo-**
 <div align="center">
   <a href="https://instagram.com/matheusmartinelli00" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:martinelli.matheus0@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
